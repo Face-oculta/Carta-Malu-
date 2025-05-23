@@ -92,7 +92,7 @@
     transition: transform 0.7s ease;
     transform-origin: bottom center;
     z-index: 5;
-    transform: rotateX(0deg);
+    transform: rotateX(0deg); /* Flap começa FECHADA */
     background-image:
       repeating-linear-gradient(
         45deg,
